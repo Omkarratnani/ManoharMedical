@@ -103,7 +103,7 @@ export default function HomePage() {
             />
             <TimelineEntry year={settings.foundedYear} title="The firm is founded" desc="Manohar Medical Agencies opens its doors as a medical wholesale trading house, built on direct relationships with manufacturers and retailers." />
             <TimelineEntry year="Expansion Era" title="The family expands the business" desc="The firm expands the product range and formalises the firm's licensing, supplier network, and distribution reach across the region." />
-            <TimelineEntry year="Today" title="A new generation joins the firm" desc="The family continues the legacy with renewed focus on modern systems, technology, and faster service for distributor partners." />
+            <TimelineEntry year="Today" title="Generation continues the business" desc="The family continues the legacy with renewed focus on modern systems, technology, and faster service for distributor partners." />
             <TimelineEntry year="Now" title="A trusted name for distributors" desc="Today, Manohar Medical Agencies stocks a broad range of medical supplies, serving distributor partners who depend on consistent, on-time fulfilment." last />
           </div>
         </div>
